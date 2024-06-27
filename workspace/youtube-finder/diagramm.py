@@ -30,6 +30,5 @@ plt.xticks(rotation=45)
 for i, anzahl in enumerate(anzahlen):
     plt.text(i, anzahl + 0.2, str(anzahl), ha='center', va='bottom')
 
-plt.text(len(jahre)-0.5, max(anzahlen), f'Gesamt: {gesamt_anzahl}', fontsize=10, ha='right', va='top')
 plt.tight_layout()
 plt.show()
