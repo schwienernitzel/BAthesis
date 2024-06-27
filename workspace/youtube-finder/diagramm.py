@@ -24,7 +24,7 @@ plt.figure(figsize=(10, 6))
 plt.bar(jahre, anzahlen, color='skyblue')
 plt.xlabel('Jahr')
 plt.ylabel('Anzahl der Videos')
-plt.title('Anzahl der Videos in Abhängigkeit des Jahres')
+plt.title(f'Verteilung der YouTube-Videos in Abhängigkeit des Jahres (Gesamt: {gesamt_anzahl})')
 plt.xticks(rotation=45)
 
 for i, anzahl in enumerate(anzahlen):
