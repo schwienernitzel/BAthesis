@@ -8,6 +8,7 @@ import json
 import re
 import unicodedata
 import sys
+import os
 
 from urllib.request import urlopen
 from urllib.error import HTTPError, URLError
