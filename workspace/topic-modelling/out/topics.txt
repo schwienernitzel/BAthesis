@@ -1,0 +1,31 @@
+# Topics (Generell)
+Topic 0 - AfD, Talkshow
+Topic 1 - Migration
+Topic 2 - Arbeit
+Topic 3 - Sexualstraftaten
+Topic 4 - Arzt, Krankenhaus
+Topic 5 - Wohnen
+Topic 6 - Parteien
+Topic 7 - Integration, Parallelgesellschaft
+Topic 8 - Essen
+Topic 9 - Schwurbel
+Topic 10 - Klimawandel
+Topic 11 - Handy, Internet
+
+# Topics (Hatespeech)
+Topic 0 - AfD, Talkshow
+Topic 1 - Deutschland, Politiker
+Topic 2 - Migration
+Topic 3 - Islam
+Topic 4 - Geld, Steuergelder
+Topic 5 - Sexualstraftaten
+Topic 6 - Wohnen
+Topic 7 - Unerträgliche Person
+Topic 8 - Boot, Schiff
+Topic 9 - Handyvideos
+Topic 10 - Kohle, Strom, Klima
+Topic 11 - Parteien
+Topic 12 - Gehirn, Krankheit
+Topic 13 - Integration, Parallelgesellschaft
+Topic 14 - Drogenhandel, Prostitution,
+Topic 15 - Covid-Impfung
